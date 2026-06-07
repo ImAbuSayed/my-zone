@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | Pending |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for My Zone](https://music.abusayed.com.bd/Licensing/) |
+| **Get License** | [License this song: My Zone](https://music.abusayed.com.bd/Licensing/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `66064b4e7e5d51824632264e5995fe8bf3b02cca668fe46aa2c8d466cfc1d940` |
 | **Timestamp** | June 08, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
